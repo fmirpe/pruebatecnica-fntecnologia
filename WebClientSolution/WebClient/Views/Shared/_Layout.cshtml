@@ -1,0 +1,48 @@
+﻿@using WebClient.Infrastructure
+@{
+    var userName = Context.Session.GetString(SessionKeys.UserName);
+    var userRole = Context.Session.GetString(SessionKeys.UserRole);
+}
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Demo Productos</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+</head>
+<body>
+    <nav class="navbar navbar-expand navbar-dark bg-dark">
+        <a class="navbar-brand ms-3" asp-controller="Auth" asp-action="Login">Demo Productos</a>
+
+        <div class="navbar-nav me-auto">
+            @if (!string.IsNullOrEmpty(userName))
+            {
+                <a class="nav-item nav-link" asp-controller="Products" asp-action="Index">Productos</a>
+            }
+        </div>
+
+        <div class="navbar-nav ms-auto me-3">
+            @if (!string.IsNullOrEmpty(userName))
+            {
+                <span class="navbar-text me-3">
+                    @userName (@userRole)
+                </span>
+                <form asp-controller="Auth" asp-action="Logout" method="post" class="d-inline">
+                    <button type="submit" class="btn btn-outline-light btn-sm">Salir</button>
+                </form>
+            }
+        </div>
+    </nav>
+
+    <div class="container mt-4">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

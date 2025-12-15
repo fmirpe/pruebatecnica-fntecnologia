@@ -1,0 +1,65 @@
+﻿@model IEnumerable<WebClient.Models.Products.ProductViewModel>
+@using WebClient.Infrastructure
+
+@{
+    ViewData["Title"] = "Productos";
+    var role = ViewBag.UserRole as string;
+    var userName = Context.Session.GetString(SessionKeys.UserName);
+}
+
+<h2 class="mb-3">Listado de productos</h2>
+
+<div class="mb-3">
+    <span class="fw-bold">Usuario:</span> @userName (@role)
+</div>
+
+@if (role == "Admin")
+{
+    <p>
+        <a asp-controller="Products" asp-action="Create" class="btn btn-primary">Crear nuevo producto</a>
+    </p>
+}
+
+<table class="table table-striped table-bordered">
+    <thead class="table-dark">
+        <tr>
+            <th>Nombre</th>
+            <th>Categoría</th>
+            <th class="text-end">Precio</th>
+            <th>Activo</th>
+            @if (role == "Admin")
+            {
+                <th style="width: 160px;">Acciones</th>
+            }
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var p in Model)
+        {
+            <tr>
+                <td>@p.Name</td>
+                <td>@p.Category</td>
+                <td class="text-end">@p.Price</td>
+                <td>@(p.IsActive ? "Sí" : "No")</td>
+                @if (role == "Admin")
+                {
+                    <td>
+                        <a asp-controller="Products"
+                           asp-action="Edit"
+                           asp-route-id="@p.Id"
+                           class="btn btn-sm btn-warning me-1">
+                            Editar
+                        </a>
+                        <a asp-controller="Products"
+                           asp-action="Delete"
+                           asp-route-id="@p.Id"
+                           class="btn btn-sm btn-danger"
+                           onclick="return confirm('¿Seguro de eliminar este producto?');">
+                            Eliminar
+                        </a>
+                    </td>
+                }
+            </tr>
+        }
+    </tbody>
+</table>

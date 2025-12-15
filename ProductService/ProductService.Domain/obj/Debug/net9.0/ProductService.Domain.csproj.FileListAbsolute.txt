@@ -1,0 +1,11 @@
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\bin\Debug\net9.0\ProductService.Domain.deps.json
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\bin\Debug\net9.0\ProductService.Domain.dll
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\bin\Debug\net9.0\ProductService.Domain.pdb
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.AssemblyInfoInputs.cache
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.AssemblyInfo.cs
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.dll
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\obj\Debug\net9.0\refint\ProductService.Domain.dll
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\obj\Debug\net9.0\ProductService.Domain.pdb
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Domain\obj\Debug\net9.0\ref\ProductService.Domain.dll

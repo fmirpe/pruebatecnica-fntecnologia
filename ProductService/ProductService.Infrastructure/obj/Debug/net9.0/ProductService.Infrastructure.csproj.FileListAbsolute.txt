@@ -1,0 +1,17 @@
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\bin\Debug\net9.0\ProductService.Infrastructure.deps.json
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\bin\Debug\net9.0\ProductService.Infrastructure.runtimeconfig.json
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\bin\Debug\net9.0\ProductService.Infrastructure.dll
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\bin\Debug\net9.0\ProductService.Infrastructure.pdb
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\bin\Debug\net9.0\ProductService.Domain.dll
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\bin\Debug\net9.0\ProductService.Domain.pdb
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductService.Infrastructure.csproj.AssemblyReference.cache
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductService.Infrastructure.AssemblyInfoInputs.cache
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductService.Infrastructure.AssemblyInfo.cs
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductS.4D387919.Up2Date
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductService.Infrastructure.dll
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\refint\ProductService.Infrastructure.dll
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductService.Infrastructure.pdb
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ProductService.Infrastructure.genruntimeconfig.cache
+C:\Desarrollo\Personal\pruebatecnica\fntecnologia\ProductService\ProductService.Infrastructure\obj\Debug\net9.0\ref\ProductService.Infrastructure.dll

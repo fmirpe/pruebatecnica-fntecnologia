@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32630789-A15B-4190-877F-C9D78CC204D7}|ProductService.Api\\ProductService.Api.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32630789-A15B-4190-877F-C9D78CC204D7}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.application\\products\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.application\\products\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\interfaces\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32630789-A15B-4190-877F-C9D78CC204D7}|ProductService.Api\\ProductService.Api.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32630789-A15B-4190-877F-C9D78CC204D7}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32630789-A15B-4190-877F-C9D78CC204D7}|ProductService.Api\\ProductService.Api.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{32630789-A15B-4190-877F-C9D78CC204D7}|ProductService.Api\\ProductService.Api.csproj|solutionrelative:productservice.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F413E7C-7FF5-4F82-A54D-940C8BF8E255}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F413E7C-7FF5-4F82-A54D-940C8BF8E255}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.application\\products\\dtos\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\dtos\\updateproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.application\\products\\dtos\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\dtos\\createproductrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEC28C6A-FED7-4265-A217-68C0D6485CCD}|ProductService.Application\\ProductService.Application.csproj|solutionrelative:productservice.application\\products\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F413E7C-7FF5-4F82-A54D-940C8BF8E255}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.infrastructure\\productservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5F413E7C-7FF5-4F82-A54D-940C8BF8E255}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\productservice.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F413E7C-7FF5-4F82-A54D-940C8BF8E255}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.infrastructure\\persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F413E7C-7FF5-4F82-A54D-940C8BF8E255}|ProductService.Infrastructure\\ProductService.Infrastructure.csproj|solutionrelative:productservice.infrastructure\\persistence\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11614061-8F12-4EE1-8189-2FD07F50A960}|ProductService.Domain\\ProductService.Domain.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11614061-8F12-4EE1-8189-2FD07F50A960}|ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:productservice.domain\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11614061-8F12-4EE1-8189-2FD07F50A960}|ProductService.Domain\\ProductService.Domain.csproj|c:\\desarrollo\\personal\\pruebatecnica\\fntecnologia\\productservice\\productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11614061-8F12-4EE1-8189-2FD07F50A960}|ProductService.Domain\\ProductService.Domain.csproj|solutionrelative:productservice.domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Api\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductService.Api\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Api\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductService.Api\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:31:17.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\Services\\ProductService.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:11:47.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\Interfaces\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\Interfaces\\IProductService.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\Interfaces\\IProductService.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\Interfaces\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:11:05.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Api\\Program.cs",
+              "RelativeDocumentMoniker": "ProductService.Api\\Program.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Api\\Program.cs",
+              "RelativeToolTip": "ProductService.Api\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:02:07.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "ProductService.Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:56:27.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductService.Api\\appsettings.json",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Api\\appsettings.json",
+              "RelativeToolTip": "ProductService.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-15T03:58:26.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateProductRequest.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\DTOs\\UpdateProductRequest.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\DTOs\\UpdateProductRequest.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\DTOs\\UpdateProductRequest.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\DTOs\\UpdateProductRequest.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:09:53.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProductRequest.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\DTOs\\CreateProductRequest.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\DTOs\\CreateProductRequest.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\DTOs\\CreateProductRequest.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\DTOs\\CreateProductRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:09:22.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "ProductService.Application\\Products\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Application\\Products\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "ProductService.Application\\Products\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T04:08:30.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "ProductService.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "RelativeToolTip": "ProductService.Infrastructure\\Persistence\\ProductDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwDIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:54:33.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductService.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+              "RelativeToolTip": "ProductService.Infrastructure\\ProductService.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-12-15T03:52:11.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProductService.Domain\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Domain\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "ProductService.Domain\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:51:27.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ProductService.Domain\\Entities\\Product.cs",
+              "ToolTip": "C:\\Desarrollo\\Personal\\pruebatecnica\\fntecnologia\\ProductService\\ProductService.Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "ProductService.Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-15T03:50:31.405Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
