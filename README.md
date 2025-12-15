@@ -39,6 +39,7 @@ Esta solución implementa la prueba técnica solicitada: dos microservicios inde
 1. Abrir la solución `UserService` en Visual Studio.
 2. Ajustar `UserService.Api/appsettings.json`:
 
+```
 "ConnectionStrings": {
 	"UserDatabase": "Host=localhost;Port=5432;Database=userservice_db;Username=TU_USUARIO;Password=TU_PASSWORD"
 },
@@ -48,7 +49,7 @@ Esta solución implementa la prueba técnica solicitada: dos microservicios inde
 	"Audience": "UserServiceClients",
 	"ExpiresInMinutes": 60
 }
-
+```
 
 ### Migraciones y base de datos
 
@@ -81,6 +82,7 @@ La respuesta de login incluye un campo `token` con el JWT que luego usa ProductS
 1. Abrir la solución `ProductService` en Visual Studio.
 2. Ajustar `ProductService.Api/appsettings.json`:
 
+```
 "ConnectionStrings": {
 	"ProductDatabase": "Host=localhost;Port=5432;Database=productservice_db;Username=TU_USUARIO;Password=TU_PASSWORD"
 },
@@ -90,7 +92,7 @@ La respuesta de login incluye un campo `token` con el JWT que luego usa ProductS
 	"Audience": "UserServiceClients",
 	"ExpiresInMinutes": 60
 }
-
+```
 
 (La clave y el issuer deben coincidir con UserService para que el token sea válido). 
 
@@ -126,11 +128,12 @@ Swagger está configurado con esquema **Bearer**: usar `Authorize` y enviar `Bea
 1. Abrir la solución `WebClientSolution` en Visual Studio.
 2. Ajustar `WebClient/appsettings.json` con las URLs reales de tus APIs:
 
+```
 "ApiUrls": {
 	"UserService": "https://localhost:5001",
 	"ProductService": "https://localhost:6001"
 }
-
+```
 
 (Usar los puertos que Visual Studio asigne a `UserService.Api` y `ProductService.Api`). 
 
